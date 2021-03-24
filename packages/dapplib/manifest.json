@@ -1,0 +1,8 @@
+{
+    "name": "1Coupon",
+    "blocks": {
+        "/blockchain/conflux": true,
+        "/blockchain/conflux/solidity": true,
+        "/framework/vanilla": true
+    }
+}
